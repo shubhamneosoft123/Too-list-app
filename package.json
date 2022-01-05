@@ -1,6 +1,7 @@
 {
-  "homepage": "https://shubhamneosoft123.github.io/Todo-List-app",
+  
   "name": "todo-app",
+  "homepage": "https://shubhamneosoft123.github.io/Too-list-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
